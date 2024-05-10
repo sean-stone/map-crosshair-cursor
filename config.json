@@ -1,0 +1,10 @@
+{
+    "view": {
+        "center":[-61.125537, 35.863534],
+        "zoom":3
+    },
+   "FeatureLayerURL": "https://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/World_Cities/FeatureServer/0",
+   "FeatureLayerOutfields": ["objectid"],
+   "Basemap": "dark-gray-vector",
+   "SpatialReference": 102100
+}
